@@ -9,6 +9,7 @@ const translations = {
         "header.subtitle": "Legal disclosure according to German law.",
 
         "sec1.title": "Information according to §5 TMG",
+        "sec1.secContact": "Second contact method",
 
         "sec2.title": "Responsible for content according to §18 MStV",
         "sec2.text": "Yannick Schroth, address as above.",
@@ -35,6 +36,7 @@ const translations = {
         "header.subtitle": "Angaben gemäß §5 TMG.",
 
         "sec1.title": "Angaben gemäß §5 TMG",
+        "sec1.secContact": "Zweiter Kontaktweg",
 
         "sec2.title": "Verantwortlich für den Inhalt nach §18 Abs. 2 MStV",
         "sec2.text": "Yannick Schroth, Anschrift wie oben.",
