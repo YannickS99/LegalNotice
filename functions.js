@@ -11,7 +11,7 @@ const translations = {
         "sec1.title": "Information according to §5 TMG",
 
         "sec2.title": "Responsible for content according to §18 MStV",
-        "sec2.text": "Max Mustermann, address as above.",
+        "sec2.text": "Yannick Schroth, address as above.",
 
         "sec3.title": "Liability for Content",
         "sec3.text": "The contents of this website have been created with the greatest possible care. However, no guarantee can be given for the accuracy, completeness, and timeliness of the content. As a service provider, I am responsible for my own content on these pages according to general laws. However, I am not obligated to monitor transmitted or stored external information.",
@@ -37,7 +37,7 @@ const translations = {
         "sec1.title": "Angaben gemäß §5 TMG",
 
         "sec2.title": "Verantwortlich für den Inhalt nach §18 Abs. 2 MStV",
-        "sec2.text": "Max Mustermann, Anschrift wie oben.",
+        "sec2.text": "Yannick Schroth, Anschrift wie oben.",
 
         "sec3.title": "Haftung für Inhalte",
         "sec3.text": "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter bin ich gemäß den allgemeinen Gesetzen für eigene Inhalte auf diesen Seiten verantwortlich.",
