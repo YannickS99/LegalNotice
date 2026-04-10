@@ -20,9 +20,6 @@ const translations = {
         "sec4.title": "Liability for Links",
         "sec4.text": "This website may contain links to external websites of third parties over whose content I have no influence. Therefore, I cannot assume any liability for this external content. The respective provider or operator of the linked pages is always responsible for the content of the linked pages.",
 
-        "sec5.title": "Copyright",
-        "sec5.text": "The content and works created by the site operator on these pages are subject to German copyright law. Reproduction, editing, distribution, and any kind of use outside the limits of copyright law require the written consent of the respective author or creator.",
-
         "footer.status": "Status: March 2026"
 
     },
@@ -46,9 +43,6 @@ const translations = {
 
         "sec4.title": "Haftung für Links",
         "sec4.text": "Unsere Website enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.",
-
-        "sec5.title": "Urheberrecht",
-        "sec5.text": "Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht.",
 
         "footer.status": "Stand: März 2026"
 
