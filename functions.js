@@ -77,11 +77,7 @@ function updateLanguage(lang) {
         const key = el.getAttribute('data-i18n');
 
         if (data[key]) {
-            if (el.children.length > 0 && el.querySelector('[data-i18n]')) {
-                // Skip parent elements that contain child i18n elements
-                return;
-            }
-            el.innerText = data[key];
+            el.textContent = data[key];
         }
 
     });
