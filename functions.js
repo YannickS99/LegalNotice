@@ -9,7 +9,12 @@ const translations = {
         "header.subtitle": "Legal disclosure according to German law.",
 
         "sec1.title": "Information according to §5 TMG",
-        "sec1.secContact": "Second contact method",
+        "sec1.addressTitle": "Address",
+        "sec1.country": "Germany",
+        "sec1.noPackages": "Please do not send packages to this address.",
+        "sec1.contactTitle": "Contact",
+        "sec1.emailLabel": "E-Mail",
+        "sec1.phoneLabel": "Phone",
 
         "sec2.title": "Responsible for content according to §18 MStV",
         "sec2.text": "Yannick Schroth, address as above.",
@@ -41,7 +46,12 @@ const translations = {
         "header.subtitle": "Angaben gemäß §5 TMG.",
 
         "sec1.title": "Angaben gemäß §5 TMG",
-        "sec1.secContact": "Zweiter Kontaktweg",
+        "sec1.addressTitle": "Anschrift",
+        "sec1.country": "Deutschland",
+        "sec1.noPackages": "Bitte versenden Sie keine Pakete an diese Adresse.",
+        "sec1.contactTitle": "Kontakt",
+        "sec1.emailLabel": "E-Mail",
+        "sec1.phoneLabel": "Telefon",
 
         "sec2.title": "Verantwortlich für den Inhalt nach §18 Abs. 2 MStV",
         "sec2.text": "Yannick Schroth, Anschrift wie oben.",
