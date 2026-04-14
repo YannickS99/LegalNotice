@@ -8,7 +8,7 @@ const translations = {
         "header.title": "Imprint",
         "header.subtitle": "Legal disclosure according to German law.",
 
-        "sec1.title": "Information according to §5 TMG",
+        "sec1.title": "Information according to §5 DDG",
         "sec1.addressTitle": "Address",
         "sec1.country": "Germany",
         "sec1.noPackages": "Please do not send packages to this address.",
@@ -43,9 +43,9 @@ const translations = {
         "nav.title": "Impressum",
 
         "header.title": "Impressum",
-        "header.subtitle": "Angaben gemäß §5 TMG.",
+        "header.subtitle": "Angaben gemäß §5 DDG.",
 
-        "sec1.title": "Angaben gemäß §5 TMG",
+        "sec1.title": "Angaben gemäß §5 DDG",
         "sec1.addressTitle": "Anschrift",
         "sec1.country": "Deutschland",
         "sec1.noPackages": "Bitte versenden Sie keine Pakete an diese Adresse.",
