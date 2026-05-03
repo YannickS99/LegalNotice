@@ -30,10 +30,11 @@ const translations = {
         "sec5.seat": "Seat: Germany",
         "sec5.scope": "This imprint applies to all obligations under §5 DDG, §55 para. 2 RStV & MStV §18 as well as all social media presences.",
 
-        "footer.status": "Status: April 2026",
+        "footer.status": "Status: May 2026",
         "footer.privacy": "Privacy Policy",
         "footer.legal": "Legal Notice",
-        "footer.monetheus": "Monetheus"
+        "footer.monetheus": "Monetheus",
+        "footer.productsLabel": "Products"
 
     },
 
@@ -67,10 +68,11 @@ const translations = {
         "sec5.seat": "Sitz: Deutschland",
         "sec5.scope": "Das hier angegebene Impressum gilt für alle Belange der Impressumspflicht nach §5 DDG, § 55 Abs.2 RStV & MStV §18 sowie für alle Social Media Auftritte.",
 
-        "footer.status": "Stand: April 2026",
+        "footer.status": "Stand: Mai 2026",
         "footer.privacy": "Datenschutz",
         "footer.legal": "Impressum",
-        "footer.monetheus": "Monetheus"
+        "footer.monetheus": "Monetheus",
+        "footer.productsLabel": "Produkte"
 
     }
 
